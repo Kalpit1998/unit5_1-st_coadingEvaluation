@@ -1,0 +1,81 @@
+{
+  "food": [
+    {
+      "title": "pizza",
+      "incredents": "base",
+      "time": "15",
+      "instruction": "vhvshgcda",
+      "id": 1
+    },
+    {
+      "title": "burger",
+      "incredents": "aloo tikki",
+      "time": "10",
+      "instruction": "burger king",
+      "id": 2
+    },
+    {
+      "title": "mango juice",
+      "incredents": "mango",
+      "time": "5",
+      "instruction": "mango grind",
+      "id": 3
+    },
+    {
+      "title": "milk shake",
+      "incredents": "milk",
+      "time": "8",
+      "instruction": "shaking milk,",
+      "id": 4
+    },
+    {
+      "title": "pav bhaji",
+      "incredents": "pav",
+      "time": "20",
+      "instruction": "pav-bhaji",
+      "id": 5
+    },
+    {
+      "title": "chowmin",
+      "incredents": "noodles",
+      "time": "10",
+      "instruction": "noodles, vegetables",
+      "id": 6
+    },
+    {
+      "title": "momos",
+      "incredents": "carrot",
+      "time": "25",
+      "instruction": "boil water, maida",
+      "id": 7
+    },
+    {
+      "title": "pani puri",
+      "incredents": "puri, water",
+      "time": "5",
+      "instruction": "jaljeera powder",
+      "id": 8
+    },
+    {
+      "title": "rolls",
+      "incredents": "cabbage, carror",
+      "time": "30",
+      "instruction": "maida floor, oil",
+      "id": 9
+    },
+    {
+      "title": "french fries",
+      "incredents": "potato",
+      "time": "20",
+      "instruction": "cut potato then fri in oil.",
+      "id": 10
+    },
+    {
+      "title": "dwf",
+      "incredents": "dsfxcgv",
+      "time": "9845",
+      "instruction": "edfg",
+      "id": 11
+    }
+  ]
+}
